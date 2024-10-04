@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Talks
+
+* [Keep CALM and Carry on Approving Change](https://www.youtube.com/watch?v=pKjRSMQjy6E) at the Open Source in Finance Forum (OSFF) 2024
+
 <!--
 **aidanm3341/aidanm3341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
